@@ -1,2 +1,17 @@
-# ai-collaboration-design-notes
-Reusable prompt templates and workflow documentation from AI collaboration case studies.
+# AI Collaboration Design Notes
+
+Reusable prompt templates and workflow documentation from real Human-AI 
+collaboration case studies — for content systems, business planning, 
+and SOP design.
+
+Full write-ups: [ashdaily.blog/case-studies](https://ashdaily.blog/category/case-studies/)
+
+## Notes
+
+- [Design Note #001 — Building an AI-Assisted Business Planning Workflow](https://ashdaily.blog/?p=2183)
+
+## About
+
+I design AI-powered knowledge and content systems. Each Design Note 
+documents a real workflow: the process, the decision points, and the 
+reusable prompt structure behind it.
