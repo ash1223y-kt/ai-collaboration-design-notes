@@ -1,6 +1,6 @@
 # Design Note #001 — AI-Assisted Business Planning Workflow
 
-Full case study: [ashdaily.blog](https://ashdaily.blog/?p=2183&preview=true)
+Full case study: [ashdaily.blog](https://ashdaily.blog/001-building-an-ai-assisted-business-planning-workflow/)
 
 ## Workflow
 
