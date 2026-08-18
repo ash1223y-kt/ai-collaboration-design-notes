@@ -3,7 +3,7 @@
 Reusable prompt template and workflow documentation for pressure-testing high-risk micro-business ideas before committing capital.
 
 ## Links
-- Full write-up: [ashdaily.blog](https://ashdaily.blog/?p=2194)
+- Full write-up: [ashdaily.blog](https://ashdaily.blog/design-note-002-a-structured-feasibility-testing-workflow-for-high-risk-low-data-decisions/)
 
 ## Workflow Stages
 1. **Define Boundary Conditions** — Lock down hard constraints.
