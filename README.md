@@ -8,8 +8,8 @@ Full write-ups: [ashdaily.blog/case-studies](https://ashdaily.blog/category/case
 
 ## Notes
 
-- [Design Note #001 — Building an AI-Assisted Business Planning Workflow](https://ashdaily.blog/?p=2183)
-- [Design Note #002 — A Structured Feasibility-Testing Workflow for High-Risk, Low-Data Decisions](https://ashdaily.blog/?p=2194)
+- [Design Note #001 — Building an AI-Assisted Business Planning Workflow](https://ashdaily.blog/001-building-an-ai-assisted-business-planning-workflow/)
+- [Design Note #002 — A Structured Feasibility-Testing Workflow for High-Risk, Low-Data Decisions](https://ashdaily.blog/design-note-002-a-structured-feasibility-testing-workflow-for-high-risk-low-data-decisions/)
 
 ## About
 
