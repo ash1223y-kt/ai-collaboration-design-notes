@@ -10,6 +10,7 @@ Full write-ups: [ashdaily.blog/case-studies](https://ashdaily.blog/category/case
 
 - [Design Note #001 — Building an AI-Assisted Business Planning Workflow](https://ashdaily.blog/001-building-an-ai-assisted-business-planning-workflow/)
 - [Design Note #002 — A Structured Feasibility-Testing Workflow for High-Risk, Low-Data Decisions](https://ashdaily.blog/design-note-002-a-structured-feasibility-testing-workflow-for-high-risk-low-data-decisions/)
+- [Design Note #003 — Turning Expert Pricing Intuition into a Human-AI Decision Workflow](https://ashdaily.blog/design-note-003-turning-expert-pricing-intuition-into-a-human-ai-decision-workflow/)
 
 ## About
 
