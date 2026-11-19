@@ -12,6 +12,7 @@ Full write-ups: [ashdaily.blog/case-studies](https://ashdaily.blog/category/case
 - [Design Note #002 — A Structured Feasibility-Testing Workflow for High-Risk, Low-Data Decisions](https://ashdaily.blog/design-note-002-a-structured-feasibility-testing-workflow-for-high-risk-low-data-decisions/)
 - [Design Note #003 — Turning Expert Pricing Intuition into a Human-AI Decision Workflow](https://ashdaily.blog/design-note-003-turning-expert-pricing-intuition-into-a-human-ai-decision-workflow/)
 - [Design Note #004 — Stop Asking AI for Marketing Tactics: How to Break a Side-Business Bottleneck with a Problem-First Framework](https://ashdaily.blog/design-note-004-stop-asking-ai-for-marketing-tactics-how-to-break-a-side-business-bottleneck-with-a-problem-first-framework/)
+- [Design Note #005 — Using AI to Challenge a Business Plan](https://ashdaily.blog/design-note-005-using-ai-to-challenge-a-business-plan-a-critical-review-of-a-japanese-ski-school-startup/)
 
 ## About
 
